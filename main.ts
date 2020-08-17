@@ -17,3 +17,4 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
 mySprite.setVelocity(50, 50)
+music.baDing.play()
