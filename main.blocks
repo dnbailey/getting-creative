@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field></shadow></value><value name="kind"><shadow type="spritekind" id="sHDUOt5.0Oh!m9RvRJAl"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="sHDUOt5.0Oh!m9RvRJAl"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="spritesetvel" id="0{D*U0Nv/no.+3PH6X2h"><value name="sprite"><block type="variables_get" id="0.]]L8A[Yp!fX3v`t7?#"><field name="VAR" id="#QVyzhu7|[q%g$z/teOP">mySprite</field></block></value><value name="vx"><shadow type="spriteSpeedPicker" id="LButOF2)Q;N/k?trI,;3"><field name="speed">50</field></shadow></value><value name="vy"><shadow type="spriteSpeedPicker" id="qb9M@a~`@age9{{N2s=~"><field name="speed">50</field></shadow></value></block></next></block></statement></block></xml>
